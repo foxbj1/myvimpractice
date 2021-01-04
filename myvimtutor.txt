@@ -764,7 +764,7 @@ Some text 2.0
 
   5. Use  e  to move to the next incomplete word and repeat steps 3 and 4.
 
----> This li will allow you to pract appendi text to a line.
+---> This line will allow you to practice appending text to a line.
 ---> This line will allow you to practice appending text to a line.
 
 NOTE:  a, i and A all go to the same Insert mode, the only difference is where
@@ -787,7 +787,7 @@ NOTE:  a, i and A all go to the same Insert mode, the only difference is where
 
   4. Repeat the steps to replace the remaining xxx.
 
----> Adding 123 to xxx gives you xxx.
+---> Adding 123 to 456 gives you xxx.
 ---> Adding 123 to 456 gives you 579.
 
 NOTE:  Replace mode is like Insert mode, but every typed character deletes an
