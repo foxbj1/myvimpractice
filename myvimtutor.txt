@@ -865,7 +865,7 @@ NOTE:  If you want to ignore case for just one search command, use  \c
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		       Lesson 7.1: GETTING HELP
 
-
+Writing words to push to git hub
 		      ** Use the on-line help system **
 
   Vim has a comprehensive on-line help system.  To get started, try one of
