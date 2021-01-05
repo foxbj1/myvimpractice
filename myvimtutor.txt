@@ -824,7 +824,7 @@ NOTE:  Replace mode is like Insert mode, but every typed character deletes an
 
   1. Search for 'ignore' by entering:  /ignore <ENTER>
      Repeat several times by pressing  n .
-
+Something to add to git hub
   2. Set the 'ic' (Ignore case) option by entering:   :set ic
 
   3. Now search for 'ignore' again by pressing  n
