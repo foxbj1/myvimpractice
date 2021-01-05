@@ -948,7 +948,7 @@ NOTE:  Completion works for many commands.  Just try pressing CTRL-D and
   6. When typing a  :  command, press CTRL-D to see possible completions.
      Press <TAB> to use one completion.
 
-I am out of data to transmit
+I am out of data to transmit. But I can create more to send.
 
 
 
